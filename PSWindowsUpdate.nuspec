@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PSWindowsUpdate</id>
+    <version>1.6.1.1</version>
+    <title>Windows Update PowerShell Module</title>
+    <authors>Michal Gajda</authors>
+    <owners>Dennis Schelchkov</owners>
+    <licenseUrl>https://www.powershellgallery.com/policies/Terms</licenseUrl>
+    <projectUrl>https://www.powershellgallery.com/packages/PSWindowsUpdate/1.6.1.1</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Powershell module that allows you to manage Windows Update, check, download and install or remove updates. Especially useful on machines in core edition like Windows Server 2008 R2.</description>
+    <summary>This Powershell module allows you to manage Windows Update on a Windows system. Module contains functions to check, download and install updates from PowerShell.</summary>
+    <releaseNotes>Version 1.6.1.1</releaseNotes>
+    <tags>PowerShell admin Scripting Windows Update</tags>
+  </metadata>
+</package>
